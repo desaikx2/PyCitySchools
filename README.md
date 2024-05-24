@@ -1,5 +1,7 @@
 # PyCitySchools
 
+****Written report :****
+
 Here is written report for district summary for this classwork. I am utilizing panda library from Python to analyze two csv files called as Resources/schools_complete.csv and Resources/students_complete.csv .
 
 After Reading two CSV files,I am utilizing panda merge functionality to merge those data sets and then I am printing first 5 lines using head function of panda. I can also count unique values for schools using unique library and I could also used set library but i dont want to use later so i choose unique library. I also counted stundents and also average of math score and reading score using mean library of pandas.
@@ -14,7 +16,7 @@ There was ask to establish spending and gave lables and i utilized cut methods t
 
 I am able to print per_school_summary for Total students for given labels and categorized it for this Scores by School Size then i got again errors for data type conversion.
 
-**Summary :**
+****Summarizes the analysis and conclusions :****
 There are 15 schools and with total students of 39,170 with budget $24,649,428.00.
 
 Bailey High school has maximum students in district and it is 4976 hence it is Large school size in district and Holden High School is very less students in district and it has 427 students only and it is very small size.
